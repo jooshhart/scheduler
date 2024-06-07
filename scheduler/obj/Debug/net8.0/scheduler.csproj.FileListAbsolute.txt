@@ -1,0 +1,14 @@
+C:\Programming\Applied\scheduler\scheduler\bin\Debug\net8.0\scheduler.exe
+C:\Programming\Applied\scheduler\scheduler\bin\Debug\net8.0\scheduler.deps.json
+C:\Programming\Applied\scheduler\scheduler\bin\Debug\net8.0\scheduler.runtimeconfig.json
+C:\Programming\Applied\scheduler\scheduler\bin\Debug\net8.0\scheduler.dll
+C:\Programming\Applied\scheduler\scheduler\bin\Debug\net8.0\scheduler.pdb
+C:\Programming\Applied\scheduler\scheduler\obj\Debug\net8.0\scheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Applied\scheduler\scheduler\obj\Debug\net8.0\scheduler.AssemblyInfoInputs.cache
+C:\Programming\Applied\scheduler\scheduler\obj\Debug\net8.0\scheduler.AssemblyInfo.cs
+C:\Programming\Applied\scheduler\scheduler\obj\Debug\net8.0\scheduler.csproj.CoreCompileInputs.cache
+C:\Programming\Applied\scheduler\scheduler\obj\Debug\net8.0\scheduler.dll
+C:\Programming\Applied\scheduler\scheduler\obj\Debug\net8.0\refint\scheduler.dll
+C:\Programming\Applied\scheduler\scheduler\obj\Debug\net8.0\scheduler.pdb
+C:\Programming\Applied\scheduler\scheduler\obj\Debug\net8.0\scheduler.genruntimeconfig.cache
+C:\Programming\Applied\scheduler\scheduler\obj\Debug\net8.0\ref\scheduler.dll

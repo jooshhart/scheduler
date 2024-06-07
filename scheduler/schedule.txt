@@ -1,0 +1,3 @@
+Applied Programming,6/7/2024 11:30:00 AM,Talk with team about team project,False,Meeting
+Make Deck Class,6/7/2024 11:30:00 AM,Create the Deck Class in Team Code,True,Task
+Devotional,6/4/2024 11:30:00 AM,Go and watch devotional,False,Event
