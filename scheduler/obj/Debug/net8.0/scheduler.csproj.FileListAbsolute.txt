@@ -12,3 +12,4 @@ C:\Programming\Applied\scheduler\scheduler\obj\Debug\net8.0\refint\scheduler.dll
 C:\Programming\Applied\scheduler\scheduler\obj\Debug\net8.0\scheduler.pdb
 C:\Programming\Applied\scheduler\scheduler\obj\Debug\net8.0\scheduler.genruntimeconfig.cache
 C:\Programming\Applied\scheduler\scheduler\obj\Debug\net8.0\ref\scheduler.dll
+C:\Programming\Applied\scheduler\scheduler\obj\Debug\net8.0\scheduler.sourcelink.json
