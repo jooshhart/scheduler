@@ -1,3 +1,2 @@
 Team Meeting,6/6/2024 11:30:00 AM,Talk with team about what to do for next sprint,False,Meeting
 Read,6/8/2024 11:30:00 AM,Read scriptures,True,Task
-Breakfast,6/8/2024 10:00:00 AM,Go to friend's house for breakfast.,False,Event
